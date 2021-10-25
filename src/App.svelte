@@ -19,15 +19,5 @@
 <Router {url}>
   <div>
     <Route path="/"><Index1 /></Route>
-    <Route path="/index-2"><Index2 /></Route>
-    <Route path="/index-3"><Index3 /></Route>
-    <Route path="/index-4"><Index4 /></Route>
-    <Route path="/index-5"><Index5 /></Route>
-    <Route path="/index-6"><Index6 /></Route>
-    <Route path="/index-7"><Index7 /></Route>
-    <Route path="/index-8"><Index8 /></Route>
-    <Route path="/login"><Login /></Route>
-    <Route path="/signup"><Signup /></Route>
-    <Route path="/password_forget"><Password_forget /></Route>
   </div>
 </Router>
